@@ -8,7 +8,7 @@
 # Site settings
 title: Adam Santoro
 email: adamsantoro@gmail.com
-description: Writings on AI, neuroscience, and designing intelligent systems
+description: Writings on AI & neuroscience, and other random musings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: santoroAI
