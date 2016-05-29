@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test post"
+title:  "This is a test title of moderate title length"
 date:   2016-03-30 19:45:31 +0530
 categories: test
 ---
